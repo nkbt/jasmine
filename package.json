@@ -1,15 +1,14 @@
 {
-  "name": "test",
-  "version": "0.0.0",
+  "name": "jasmine",
+  "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "jasmine.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "phantomjs jasmine.js jasmine.html"
   },
   "author": "Nik Butenko <nik@butenko.me>",
   "license": "MIT",
   "devDependencies": {
-    "es5-shim": "^4.0.3",
     "phantomjs": "^1.9.11"
   }
 }
