@@ -3,17 +3,17 @@ jasmine
 
 Jasmine runner for PhantomJS
 
-h2. setup
+## Setup
 
     npm install
 
-h2. run Windows
+## Run Windows
 
     node_modules\.bin\phantomjs jasmine.js jasmine.html
 
-h2. run MacOS / Linux
+## Run MacOS / Linux
 
     npm test
 
 
-Just opening jasmine.html in browser should work fine as well.
+Just opening jasmine.html in browser should work fine as well: https://nkbt.github.io/jasmine/jasmine.html
