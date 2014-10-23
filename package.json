@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nik Butenko <nik@butenko.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "es5-shim": "^4.0.3",
+    "phantomjs": "^1.9.11"
+  }
+}
