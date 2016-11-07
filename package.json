@@ -9,6 +9,6 @@
   "author": "Nik Butenko <nik@butenko.me>",
   "license": "MIT",
   "devDependencies": {
-    "phantomjs": "^1.9.11"
+    "phantomjs": "^2.1.7"
   }
 }
